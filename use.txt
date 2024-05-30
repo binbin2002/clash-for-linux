@@ -1,0 +1,39 @@
+1.进入项目目录 cd clash-for-linux
+2.运行启动脚本 sudo bash start.sh
+3. 加载环境变量 source /etc/profile.d/clash.sh
+4.开启系统代理 proxy_on
+5.临时关闭系统代理 proxy_off
+
+
+其他相关
+检查服务端口 netstat -tln | grep -E '9090|789.'
+
+检查环境变量 env |grep -E 'http_proxy|https_proxy'
+
+以上步鄹如果正常，说明服务clash程序启动成功，现在就可以体验高速下载github资源了
+
+
+
+停止程序
+进入项目目录
+$ cd clash-for-linux
+关闭服务
+$ sudo bash shutdown.sh
+
+服务关闭成功，请执行以下命令关闭系统代理：proxy_off
+$ proxy_off
+然后检查程序端口、进程以及环境变量http_proxy|https_proxy，若都没则说明服务正常关闭
+
+
+
+Clash Dashboard
+访问 Clash Dashboard
+通过浏览器访问 start.sh 执行成功后输出的地址，例如：http://127.0.0.1:9090/ui
+
+登录管理界面
+在API Base URL一栏中输入：http://<ip>:9090 ，在Secret(optional)一栏中输入启动成功后输出的Secret。
+
+点击Add并选择刚刚输入的管理界面地址，之后便可在浏览器上进行一些配置。
+
+更多教程
+此 Clash Dashboard 使用的是yacd项目，详细使用方法请移步到yacd上查询。

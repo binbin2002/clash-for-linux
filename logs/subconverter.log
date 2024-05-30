@@ -1,0 +1,813 @@
+2024/05/12 Sun 10:40:32.838237 [12098 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/05/12 Sun 10:40:32.839745 [12098 10739128][INFO] Reading preference settings...
+2024/05/12 Sun 10:40:32.857667 [12098 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/05/12 Sun 10:40:32.857802 [12098 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/05/12 Sun 10:40:32.857935 [12098 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/05/12 Sun 10:40:32.858064 [12098 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/05/12 Sun 10:40:32.858247 [12098 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/05/12 Sun 10:40:32.858374 [12098 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/05/12 Sun 10:40:32.858504 [12098 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/05/12 Sun 10:40:32.858549 [12098 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:40:32.858573 [12098 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:40:32.858597 [12098 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:40:32.858619 [12098 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:40:32.858639 [12098 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:40:32.858660 [12098 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:40:32.858680 [12098 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/05/12 Sun 10:40:32.858701 [12098 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/05/12 Sun 10:40:32.858728 [12098 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/05/12 Sun 10:40:32.858754 [12098 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/05/12 Sun 10:40:32.858780 [12098 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/05/12 Sun 10:40:32.858801 [12098 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/05/12 Sun 10:40:32.858814 [12098 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/05/12 Sun 10:40:32.858835 [12098 10739128][INFO] Reading generator configuration...
+2024/05/12 Sun 10:40:32.858857 [12098 10739128][INFO] Read generator configuration completed.
+
+2024/05/12 Sun 10:40:32.858864 [12098 10739128][INFO] Generating all artifacts...
+2024/05/12 Sun 10:40:32.858871 [12098 10739128][INFO] Generating artifact 'test'...
+2024/05/12 Sun 10:40:32.858903 [12098 10739128][VERB] Imported 0 item(s).
+2024/05/12 Sun 10:40:32.858936 [12098 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/05/12 Sun 10:40:32.859537 [12098 10739128][VERB] Received Link.
+2024/05/12 Sun 10:40:32.859547 [12098 10739128][VERB] Parsing configuration file data...
+2024/05/12 Sun 10:40:32.860536 [12098 10739128][VERB] Node  TrojanProvider - 剩余流量：200 GB  has been ignored and will not be added.
+2024/05/12 Sun 10:40:32.860551 [12098 10739128][VERB] Node  TrojanProvider - 套餐到期：2024-06-12  has been ignored and will not be added.
+2024/05/12 Sun 10:40:32.860566 [12098 10739128][VERB] Node  TrojanProvider - 香港 1  has been added.
+2024/05/12 Sun 10:40:32.860575 [12098 10739128][VERB] Node  TrojanProvider - 香港 2  has been added.
+2024/05/12 Sun 10:40:32.860583 [12098 10739128][VERB] Node  TrojanProvider - 香港 3  has been added.
+2024/05/12 Sun 10:40:32.860592 [12098 10739128][VERB] Node  TrojanProvider - 香港 4  has been added.
+2024/05/12 Sun 10:40:32.860601 [12098 10739128][VERB] Node  TrojanProvider - 香港 5  has been added.
+2024/05/12 Sun 10:40:32.860609 [12098 10739128][VERB] Node  TrojanProvider - 香港 6  has been added.
+2024/05/12 Sun 10:40:32.860618 [12098 10739128][VERB] Node  TrojanProvider - 台湾 1  has been added.
+2024/05/12 Sun 10:40:32.860627 [12098 10739128][VERB] Node  TrojanProvider - 台湾 2  has been added.
+2024/05/12 Sun 10:40:32.860635 [12098 10739128][VERB] Node  TrojanProvider - 台湾 3  has been added.
+2024/05/12 Sun 10:40:32.860644 [12098 10739128][VERB] Node  TrojanProvider - 日本 1  has been added.
+2024/05/12 Sun 10:40:32.860653 [12098 10739128][VERB] Node  TrojanProvider - 日本 2  has been added.
+2024/05/12 Sun 10:40:32.860661 [12098 10739128][VERB] Node  TrojanProvider - 日本 3  has been added.
+2024/05/12 Sun 10:40:32.860670 [12098 10739128][VERB] Node  TrojanProvider - 日本 4  has been added.
+2024/05/12 Sun 10:40:32.860679 [12098 10739128][VERB] Node  TrojanProvider - 日本 5  has been added.
+2024/05/12 Sun 10:40:32.860687 [12098 10739128][VERB] Node  TrojanProvider - 日本 6  has been added.
+2024/05/12 Sun 10:40:32.860696 [12098 10739128][VERB] Node  TrojanProvider - 新加坡 1  has been added.
+2024/05/12 Sun 10:40:32.860705 [12098 10739128][VERB] Node  TrojanProvider - 新加坡 2  has been added.
+2024/05/12 Sun 10:40:32.860714 [12098 10739128][VERB] Node  TrojanProvider - 新加坡 3  has been added.
+2024/05/12 Sun 10:40:32.860722 [12098 10739128][VERB] Node  TrojanProvider - 新加坡 4  has been added.
+2024/05/12 Sun 10:40:32.860731 [12098 10739128][VERB] Node  TrojanProvider - 新加坡 5  has been added.
+2024/05/12 Sun 10:40:32.860740 [12098 10739128][VERB] Node  TrojanProvider - 新加坡 6  has been added.
+2024/05/12 Sun 10:40:32.860748 [12098 10739128][VERB] Node  TrojanProvider - 美国 1  has been added.
+2024/05/12 Sun 10:40:32.860757 [12098 10739128][VERB] Node  TrojanProvider - 美国 2  has been added.
+2024/05/12 Sun 10:40:32.860765 [12098 10739128][VERB] Node  TrojanProvider - 美国 3  has been added.
+2024/05/12 Sun 10:40:32.860774 [12098 10739128][VERB] Node  TrojanProvider - 美国 4  has been added.
+2024/05/12 Sun 10:40:32.860782 [12098 10739128][VERB] Node  TrojanProvider - 美国 5  has been added.
+2024/05/12 Sun 10:40:32.860791 [12098 10739128][VERB] Node  TrojanProvider - 美国 6  has been added.
+2024/05/12 Sun 10:40:32.860800 [12098 10739128][VERB] Node  TrojanProvider - 韩国  has been added.
+2024/05/12 Sun 10:40:32.860808 [12098 10739128][VERB] Node  TrojanProvider - 印度  has been added.
+2024/05/12 Sun 10:40:32.860817 [12098 10739128][VERB] Node  TrojanProvider - 澳大利亚  has been added.
+2024/05/12 Sun 10:40:32.860826 [12098 10739128][VERB] Node  TrojanProvider - 土耳其  has been added.
+2024/05/12 Sun 10:40:32.860835 [12098 10739128][VERB] Node  TrojanProvider - 以色列  has been added.
+2024/05/12 Sun 10:40:32.860843 [12098 10739128][VERB] Node  TrojanProvider - 阿联酋  has been added.
+2024/05/12 Sun 10:40:32.860852 [12098 10739128][VERB] Node  TrojanProvider - 沙特阿拉伯  has been added.
+2024/05/12 Sun 10:40:32.860861 [12098 10739128][VERB] Node  TrojanProvider - 马来西亚  has been added.
+2024/05/12 Sun 10:40:32.860869 [12098 10739128][VERB] Node  TrojanProvider - 英国  has been added.
+2024/05/12 Sun 10:40:32.860878 [12098 10739128][VERB] Node  TrojanProvider - 法国  has been added.
+2024/05/12 Sun 10:40:32.860886 [12098 10739128][VERB] Node  TrojanProvider - 德国  has been added.
+2024/05/12 Sun 10:40:32.860895 [12098 10739128][VERB] Node  TrojanProvider - 俄罗斯  has been added.
+2024/05/12 Sun 10:40:32.860905 [12098 10739128][VERB] Node  TrojanProvider - 荷兰  has been added.
+2024/05/12 Sun 10:40:32.860913 [12098 10739128][VERB] Node  TrojanProvider - 意大利  has been added.
+2024/05/12 Sun 10:40:32.860922 [12098 10739128][VERB] Node  TrojanProvider - 瑞典  has been added.
+2024/05/12 Sun 10:40:32.860930 [12098 10739128][VERB] Node  TrojanProvider - 瑞士  has been added.
+2024/05/12 Sun 10:40:32.860939 [12098 10739128][VERB] Node  TrojanProvider - 西班牙  has been added.
+2024/05/12 Sun 10:40:32.860948 [12098 10739128][VERB] Node  TrojanProvider - 加拿大  has been added.
+2024/05/12 Sun 10:40:32.860956 [12098 10739128][VERB] Node  TrojanProvider - 墨西哥  has been added.
+2024/05/12 Sun 10:40:32.860965 [12098 10739128][VERB] Node  TrojanProvider - 巴西  has been added.
+2024/05/12 Sun 10:40:32.860973 [12098 10739128][VERB] Node  TrojanProvider - 智利  has been added.
+2024/05/12 Sun 10:40:32.860982 [12098 10739128][VERB] Node  TrojanProvider - 阿根廷  has been added.
+2024/05/12 Sun 10:40:32.860991 [12098 10739128][VERB] Node  TrojanProvider - 南非  has been added.
+2024/05/12 Sun 10:40:32.860999 [12098 10739128][VERB] Node  TrojanProvider - 尼日利亚  has been added.
+2024/05/12 Sun 10:40:32.861006 [12098 10739128][VERB] Filter done.
+2024/05/12 Sun 10:40:32.861256 [12098 10739128][INFO] Generate target: Clash
+2024/05/12 Sun 10:40:32.872876 [12098 10739128][INFO] Generate completed.
+2024/05/12 Sun 10:40:32.873091 [12098 10739128][INFO] User Info for artifact 'test': Stream Used: 1.00  B Stream Total: N/A Expiry Time: N/A
+2024/05/12 Sun 10:40:32.873100 [12098 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/05/12 Sun 10:40:32.873107 [12098 10739128][INFO] Generating artifact 'test_profile'...
+2024/05/12 Sun 10:40:32.873124 [12098 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/05/12 Sun 10:40:32.873135 [12098 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/05/12 Sun 10:40:32.873177 [12098 10739128][VERB] Imported 0 item(s).
+2024/05/12 Sun 10:40:32.873193 [12098 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/05/12 Sun 10:40:32.873748 [12098 10739128][VERB] Received Link.
+2024/05/12 Sun 10:40:32.873785 [12098 10739128][INFO] Generate target: Clash
+2024/05/12 Sun 10:40:32.881656 [12098 10739128][INFO] Generate completed.
+2024/05/12 Sun 10:40:32.881799 [12098 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/05/12 Sun 10:40:32.881807 [12098 10739128][INFO] All artifact generated. Exiting...
+2024/05/12 Sun 10:50:14.706866 [13623 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/05/12 Sun 10:50:14.708420 [13623 10739128][INFO] Reading preference settings...
+2024/05/12 Sun 10:50:14.733403 [13623 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/05/12 Sun 10:50:14.733509 [13623 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/05/12 Sun 10:50:14.733680 [13623 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/05/12 Sun 10:50:14.733810 [13623 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/05/12 Sun 10:50:14.734053 [13623 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/05/12 Sun 10:50:14.734206 [13623 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/05/12 Sun 10:50:14.734345 [13623 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/05/12 Sun 10:50:14.734389 [13623 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:50:14.734418 [13623 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:50:14.734444 [13623 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:50:14.734471 [13623 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:50:14.734496 [13623 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:50:14.734518 [13623 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 10:50:14.734539 [13623 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/05/12 Sun 10:50:14.734561 [13623 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/05/12 Sun 10:50:14.734590 [13623 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/05/12 Sun 10:50:14.734615 [13623 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/05/12 Sun 10:50:14.734642 [13623 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/05/12 Sun 10:50:14.734662 [13623 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/05/12 Sun 10:50:14.734675 [13623 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/05/12 Sun 10:50:14.734696 [13623 10739128][INFO] Reading generator configuration...
+2024/05/12 Sun 10:50:14.734743 [13623 10739128][INFO] Read generator configuration completed.
+
+2024/05/12 Sun 10:50:14.734750 [13623 10739128][INFO] Generating all artifacts...
+2024/05/12 Sun 10:50:14.734757 [13623 10739128][INFO] Generating artifact 'test'...
+2024/05/12 Sun 10:50:14.734791 [13623 10739128][VERB] Imported 0 item(s).
+2024/05/12 Sun 10:50:14.734828 [13623 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/05/12 Sun 10:50:14.735453 [13623 10739128][VERB] Received Link.
+2024/05/12 Sun 10:50:14.735464 [13623 10739128][VERB] Parsing configuration file data...
+2024/05/12 Sun 10:50:14.736516 [13623 10739128][VERB] Node  TrojanProvider - 剩余流量：200 GB  has been ignored and will not be added.
+2024/05/12 Sun 10:50:14.736531 [13623 10739128][VERB] Node  TrojanProvider - 套餐到期：2024-06-12  has been ignored and will not be added.
+2024/05/12 Sun 10:50:14.736543 [13623 10739128][VERB] Node  TrojanProvider - 香港 1  has been added.
+2024/05/12 Sun 10:50:14.736552 [13623 10739128][VERB] Node  TrojanProvider - 香港 2  has been added.
+2024/05/12 Sun 10:50:14.736561 [13623 10739128][VERB] Node  TrojanProvider - 香港 3  has been added.
+2024/05/12 Sun 10:50:14.736570 [13623 10739128][VERB] Node  TrojanProvider - 香港 4  has been added.
+2024/05/12 Sun 10:50:14.736578 [13623 10739128][VERB] Node  TrojanProvider - 香港 5  has been added.
+2024/05/12 Sun 10:50:14.736587 [13623 10739128][VERB] Node  TrojanProvider - 香港 6  has been added.
+2024/05/12 Sun 10:50:14.736596 [13623 10739128][VERB] Node  TrojanProvider - 台湾 1  has been added.
+2024/05/12 Sun 10:50:14.736605 [13623 10739128][VERB] Node  TrojanProvider - 台湾 2  has been added.
+2024/05/12 Sun 10:50:14.736613 [13623 10739128][VERB] Node  TrojanProvider - 台湾 3  has been added.
+2024/05/12 Sun 10:50:14.736622 [13623 10739128][VERB] Node  TrojanProvider - 日本 1  has been added.
+2024/05/12 Sun 10:50:14.736631 [13623 10739128][VERB] Node  TrojanProvider - 日本 2  has been added.
+2024/05/12 Sun 10:50:14.736640 [13623 10739128][VERB] Node  TrojanProvider - 日本 3  has been added.
+2024/05/12 Sun 10:50:14.736649 [13623 10739128][VERB] Node  TrojanProvider - 日本 4  has been added.
+2024/05/12 Sun 10:50:14.736659 [13623 10739128][VERB] Node  TrojanProvider - 日本 5  has been added.
+2024/05/12 Sun 10:50:14.736668 [13623 10739128][VERB] Node  TrojanProvider - 日本 6  has been added.
+2024/05/12 Sun 10:50:14.736677 [13623 10739128][VERB] Node  TrojanProvider - 新加坡 1  has been added.
+2024/05/12 Sun 10:50:14.736686 [13623 10739128][VERB] Node  TrojanProvider - 新加坡 2  has been added.
+2024/05/12 Sun 10:50:14.736695 [13623 10739128][VERB] Node  TrojanProvider - 新加坡 3  has been added.
+2024/05/12 Sun 10:50:14.736704 [13623 10739128][VERB] Node  TrojanProvider - 新加坡 4  has been added.
+2024/05/12 Sun 10:50:14.736713 [13623 10739128][VERB] Node  TrojanProvider - 新加坡 5  has been added.
+2024/05/12 Sun 10:50:14.736722 [13623 10739128][VERB] Node  TrojanProvider - 新加坡 6  has been added.
+2024/05/12 Sun 10:50:14.736730 [13623 10739128][VERB] Node  TrojanProvider - 美国 1  has been added.
+2024/05/12 Sun 10:50:14.736739 [13623 10739128][VERB] Node  TrojanProvider - 美国 2  has been added.
+2024/05/12 Sun 10:50:14.736748 [13623 10739128][VERB] Node  TrojanProvider - 美国 3  has been added.
+2024/05/12 Sun 10:50:14.736756 [13623 10739128][VERB] Node  TrojanProvider - 美国 4  has been added.
+2024/05/12 Sun 10:50:14.736765 [13623 10739128][VERB] Node  TrojanProvider - 美国 5  has been added.
+2024/05/12 Sun 10:50:14.736773 [13623 10739128][VERB] Node  TrojanProvider - 美国 6  has been added.
+2024/05/12 Sun 10:50:14.736782 [13623 10739128][VERB] Node  TrojanProvider - 韩国  has been added.
+2024/05/12 Sun 10:50:14.736791 [13623 10739128][VERB] Node  TrojanProvider - 印度  has been added.
+2024/05/12 Sun 10:50:14.736800 [13623 10739128][VERB] Node  TrojanProvider - 澳大利亚  has been added.
+2024/05/12 Sun 10:50:14.736809 [13623 10739128][VERB] Node  TrojanProvider - 土耳其  has been added.
+2024/05/12 Sun 10:50:14.736818 [13623 10739128][VERB] Node  TrojanProvider - 以色列  has been added.
+2024/05/12 Sun 10:50:14.736826 [13623 10739128][VERB] Node  TrojanProvider - 阿联酋  has been added.
+2024/05/12 Sun 10:50:14.736835 [13623 10739128][VERB] Node  TrojanProvider - 沙特阿拉伯  has been added.
+2024/05/12 Sun 10:50:14.736844 [13623 10739128][VERB] Node  TrojanProvider - 马来西亚  has been added.
+2024/05/12 Sun 10:50:14.736853 [13623 10739128][VERB] Node  TrojanProvider - 英国  has been added.
+2024/05/12 Sun 10:50:14.736861 [13623 10739128][VERB] Node  TrojanProvider - 法国  has been added.
+2024/05/12 Sun 10:50:14.736870 [13623 10739128][VERB] Node  TrojanProvider - 德国  has been added.
+2024/05/12 Sun 10:50:14.736879 [13623 10739128][VERB] Node  TrojanProvider - 俄罗斯  has been added.
+2024/05/12 Sun 10:50:14.736888 [13623 10739128][VERB] Node  TrojanProvider - 荷兰  has been added.
+2024/05/12 Sun 10:50:14.736896 [13623 10739128][VERB] Node  TrojanProvider - 意大利  has been added.
+2024/05/12 Sun 10:50:14.736905 [13623 10739128][VERB] Node  TrojanProvider - 瑞典  has been added.
+2024/05/12 Sun 10:50:14.736914 [13623 10739128][VERB] Node  TrojanProvider - 瑞士  has been added.
+2024/05/12 Sun 10:50:14.736922 [13623 10739128][VERB] Node  TrojanProvider - 西班牙  has been added.
+2024/05/12 Sun 10:50:14.736931 [13623 10739128][VERB] Node  TrojanProvider - 加拿大  has been added.
+2024/05/12 Sun 10:50:14.736940 [13623 10739128][VERB] Node  TrojanProvider - 墨西哥  has been added.
+2024/05/12 Sun 10:50:14.736948 [13623 10739128][VERB] Node  TrojanProvider - 巴西  has been added.
+2024/05/12 Sun 10:50:14.736957 [13623 10739128][VERB] Node  TrojanProvider - 智利  has been added.
+2024/05/12 Sun 10:50:14.736966 [13623 10739128][VERB] Node  TrojanProvider - 阿根廷  has been added.
+2024/05/12 Sun 10:50:14.736975 [13623 10739128][VERB] Node  TrojanProvider - 南非  has been added.
+2024/05/12 Sun 10:50:14.736984 [13623 10739128][VERB] Node  TrojanProvider - 尼日利亚  has been added.
+2024/05/12 Sun 10:50:14.736990 [13623 10739128][VERB] Filter done.
+2024/05/12 Sun 10:50:14.737247 [13623 10739128][INFO] Generate target: Clash
+2024/05/12 Sun 10:50:14.748746 [13623 10739128][INFO] Generate completed.
+2024/05/12 Sun 10:50:14.748949 [13623 10739128][INFO] User Info for artifact 'test': Stream Used: 1.00  B Stream Total: N/A Expiry Time: N/A
+2024/05/12 Sun 10:50:14.748957 [13623 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/05/12 Sun 10:50:14.748964 [13623 10739128][INFO] Generating artifact 'test_profile'...
+2024/05/12 Sun 10:50:14.748979 [13623 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/05/12 Sun 10:50:14.748991 [13623 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/05/12 Sun 10:50:14.749031 [13623 10739128][VERB] Imported 0 item(s).
+2024/05/12 Sun 10:50:14.749045 [13623 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/05/12 Sun 10:50:14.749598 [13623 10739128][VERB] Received Link.
+2024/05/12 Sun 10:50:14.749637 [13623 10739128][INFO] Generate target: Clash
+2024/05/12 Sun 10:50:14.757270 [13623 10739128][INFO] Generate completed.
+2024/05/12 Sun 10:50:14.757510 [13623 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/05/12 Sun 10:50:14.757519 [13623 10739128][INFO] All artifact generated. Exiting...
+2024/05/12 Sun 11:12:10.473227 [15443 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/05/12 Sun 11:12:10.474819 [15443 10739128][INFO] Reading preference settings...
+2024/05/12 Sun 11:12:10.495925 [15443 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/05/12 Sun 11:12:10.496089 [15443 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/05/12 Sun 11:12:10.496242 [15443 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/05/12 Sun 11:12:10.496337 [15443 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/05/12 Sun 11:12:10.496542 [15443 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/05/12 Sun 11:12:10.496590 [15443 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/05/12 Sun 11:12:10.496685 [15443 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/05/12 Sun 11:12:10.496794 [15443 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 11:12:10.496826 [15443 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 11:12:10.496859 [15443 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 11:12:10.496893 [15443 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 11:12:10.496923 [15443 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 11:12:10.496955 [15443 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/05/12 Sun 11:12:10.496985 [15443 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/05/12 Sun 11:12:10.497016 [15443 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/05/12 Sun 11:12:10.497057 [15443 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/05/12 Sun 11:12:10.497092 [15443 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/05/12 Sun 11:12:10.497144 [15443 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/05/12 Sun 11:12:10.497177 [15443 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/05/12 Sun 11:12:10.497200 [15443 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/05/12 Sun 11:12:10.497234 [15443 10739128][INFO] Reading generator configuration...
+2024/05/12 Sun 11:12:10.497268 [15443 10739128][INFO] Read generator configuration completed.
+
+2024/05/12 Sun 11:12:10.497280 [15443 10739128][INFO] Generating all artifacts...
+2024/05/12 Sun 11:12:10.497291 [15443 10739128][INFO] Generating artifact 'test'...
+2024/05/12 Sun 11:12:10.497345 [15443 10739128][VERB] Imported 0 item(s).
+2024/05/12 Sun 11:12:10.497398 [15443 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/05/12 Sun 11:12:10.498515 [15443 10739128][VERB] Received Link.
+2024/05/12 Sun 11:12:10.498537 [15443 10739128][VERB] Parsing configuration file data...
+2024/05/12 Sun 11:12:10.500703 [15443 10739128][VERB] Node  TrojanProvider - 剩余流量：200 GB  has been ignored and will not be added.
+2024/05/12 Sun 11:12:10.500739 [15443 10739128][VERB] Node  TrojanProvider - 套餐到期：2024-06-12  has been ignored and will not be added.
+2024/05/12 Sun 11:12:10.500770 [15443 10739128][VERB] Node  TrojanProvider - 香港 1  has been added.
+2024/05/12 Sun 11:12:10.500793 [15443 10739128][VERB] Node  TrojanProvider - 香港 2  has been added.
+2024/05/12 Sun 11:12:10.500815 [15443 10739128][VERB] Node  TrojanProvider - 香港 3  has been added.
+2024/05/12 Sun 11:12:10.500837 [15443 10739128][VERB] Node  TrojanProvider - 香港 4  has been added.
+2024/05/12 Sun 11:12:10.500858 [15443 10739128][VERB] Node  TrojanProvider - 香港 5  has been added.
+2024/05/12 Sun 11:12:10.500880 [15443 10739128][VERB] Node  TrojanProvider - 香港 6  has been added.
+2024/05/12 Sun 11:12:10.500902 [15443 10739128][VERB] Node  TrojanProvider - 台湾 1  has been added.
+2024/05/12 Sun 11:12:10.500925 [15443 10739128][VERB] Node  TrojanProvider - 台湾 2  has been added.
+2024/05/12 Sun 11:12:10.500947 [15443 10739128][VERB] Node  TrojanProvider - 台湾 3  has been added.
+2024/05/12 Sun 11:12:10.500969 [15443 10739128][VERB] Node  TrojanProvider - 日本 1  has been added.
+2024/05/12 Sun 11:12:10.500991 [15443 10739128][VERB] Node  TrojanProvider - 日本 2  has been added.
+2024/05/12 Sun 11:12:10.501013 [15443 10739128][VERB] Node  TrojanProvider - 日本 3  has been added.
+2024/05/12 Sun 11:12:10.501036 [15443 10739128][VERB] Node  TrojanProvider - 日本 4  has been added.
+2024/05/12 Sun 11:12:10.501059 [15443 10739128][VERB] Node  TrojanProvider - 日本 5  has been added.
+2024/05/12 Sun 11:12:10.501082 [15443 10739128][VERB] Node  TrojanProvider - 日本 6  has been added.
+2024/05/12 Sun 11:12:10.501105 [15443 10739128][VERB] Node  TrojanProvider - 新加坡 1  has been added.
+2024/05/12 Sun 11:12:10.501129 [15443 10739128][VERB] Node  TrojanProvider - 新加坡 2  has been added.
+2024/05/12 Sun 11:12:10.501152 [15443 10739128][VERB] Node  TrojanProvider - 新加坡 3  has been added.
+2024/05/12 Sun 11:12:10.501176 [15443 10739128][VERB] Node  TrojanProvider - 新加坡 4  has been added.
+2024/05/12 Sun 11:12:10.501199 [15443 10739128][VERB] Node  TrojanProvider - 新加坡 5  has been added.
+2024/05/12 Sun 11:12:10.501222 [15443 10739128][VERB] Node  TrojanProvider - 新加坡 6  has been added.
+2024/05/12 Sun 11:12:10.501245 [15443 10739128][VERB] Node  TrojanProvider - 美国 1  has been added.
+2024/05/12 Sun 11:12:10.501268 [15443 10739128][VERB] Node  TrojanProvider - 美国 2  has been added.
+2024/05/12 Sun 11:12:10.501291 [15443 10739128][VERB] Node  TrojanProvider - 美国 3  has been added.
+2024/05/12 Sun 11:12:10.501314 [15443 10739128][VERB] Node  TrojanProvider - 美国 4  has been added.
+2024/05/12 Sun 11:12:10.501337 [15443 10739128][VERB] Node  TrojanProvider - 美国 5  has been added.
+2024/05/12 Sun 11:12:10.501359 [15443 10739128][VERB] Node  TrojanProvider - 美国 6  has been added.
+2024/05/12 Sun 11:12:10.501388 [15443 10739128][VERB] Node  TrojanProvider - 韩国  has been added.
+2024/05/12 Sun 11:12:10.501411 [15443 10739128][VERB] Node  TrojanProvider - 印度  has been added.
+2024/05/12 Sun 11:12:10.501435 [15443 10739128][VERB] Node  TrojanProvider - 澳大利亚  has been added.
+2024/05/12 Sun 11:12:10.501458 [15443 10739128][VERB] Node  TrojanProvider - 土耳其  has been added.
+2024/05/12 Sun 11:12:10.501482 [15443 10739128][VERB] Node  TrojanProvider - 以色列  has been added.
+2024/05/12 Sun 11:12:10.501504 [15443 10739128][VERB] Node  TrojanProvider - 阿联酋  has been added.
+2024/05/12 Sun 11:12:10.501528 [15443 10739128][VERB] Node  TrojanProvider - 沙特阿拉伯  has been added.
+2024/05/12 Sun 11:12:10.501562 [15443 10739128][VERB] Node  TrojanProvider - 马来西亚  has been added.
+2024/05/12 Sun 11:12:10.501585 [15443 10739128][VERB] Node  TrojanProvider - 英国  has been added.
+2024/05/12 Sun 11:12:10.501608 [15443 10739128][VERB] Node  TrojanProvider - 法国  has been added.
+2024/05/12 Sun 11:12:10.501632 [15443 10739128][VERB] Node  TrojanProvider - 德国  has been added.
+2024/05/12 Sun 11:12:10.501655 [15443 10739128][VERB] Node  TrojanProvider - 俄罗斯  has been added.
+2024/05/12 Sun 11:12:10.501678 [15443 10739128][VERB] Node  TrojanProvider - 荷兰  has been added.
+2024/05/12 Sun 11:12:10.501701 [15443 10739128][VERB] Node  TrojanProvider - 意大利  has been added.
+2024/05/12 Sun 11:12:10.501724 [15443 10739128][VERB] Node  TrojanProvider - 瑞典  has been added.
+2024/05/12 Sun 11:12:10.501747 [15443 10739128][VERB] Node  TrojanProvider - 瑞士  has been added.
+2024/05/12 Sun 11:12:10.501769 [15443 10739128][VERB] Node  TrojanProvider - 西班牙  has been added.
+2024/05/12 Sun 11:12:10.501793 [15443 10739128][VERB] Node  TrojanProvider - 加拿大  has been added.
+2024/05/12 Sun 11:12:10.501816 [15443 10739128][VERB] Node  TrojanProvider - 墨西哥  has been added.
+2024/05/12 Sun 11:12:10.501839 [15443 10739128][VERB] Node  TrojanProvider - 巴西  has been added.
+2024/05/12 Sun 11:12:10.501862 [15443 10739128][VERB] Node  TrojanProvider - 智利  has been added.
+2024/05/12 Sun 11:12:10.501885 [15443 10739128][VERB] Node  TrojanProvider - 阿根廷  has been added.
+2024/05/12 Sun 11:12:10.501908 [15443 10739128][VERB] Node  TrojanProvider - 南非  has been added.
+2024/05/12 Sun 11:12:10.501932 [15443 10739128][VERB] Node  TrojanProvider - 尼日利亚  has been added.
+2024/05/12 Sun 11:12:10.501951 [15443 10739128][VERB] Filter done.
+2024/05/12 Sun 11:12:10.502694 [15443 10739128][INFO] Generate target: Clash
+2024/05/12 Sun 11:12:10.518499 [15443 10739128][INFO] Generate completed.
+2024/05/12 Sun 11:12:10.518743 [15443 10739128][INFO] User Info for artifact 'test': Stream Used: 1.00  B Stream Total: N/A Expiry Time: N/A
+2024/05/12 Sun 11:12:10.518751 [15443 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/05/12 Sun 11:12:10.518759 [15443 10739128][INFO] Generating artifact 'test_profile'...
+2024/05/12 Sun 11:12:10.518777 [15443 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/05/12 Sun 11:12:10.518788 [15443 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/05/12 Sun 11:12:10.518831 [15443 10739128][VERB] Imported 0 item(s).
+2024/05/12 Sun 11:12:10.518846 [15443 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/05/12 Sun 11:12:10.519381 [15443 10739128][VERB] Received Link.
+2024/05/12 Sun 11:12:10.519418 [15443 10739128][INFO] Generate target: Clash
+2024/05/12 Sun 11:12:10.527237 [15443 10739128][INFO] Generate completed.
+2024/05/12 Sun 11:12:10.527486 [15443 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/05/12 Sun 11:12:10.527494 [15443 10739128][INFO] All artifact generated. Exiting...
+2024/05/16 Thu 10:41:25.718400 [4663 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/05/16 Thu 10:41:25.720249 [4663 10739128][INFO] Reading preference settings...
+2024/05/16 Thu 10:41:25.742814 [4663 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/05/16 Thu 10:41:25.743044 [4663 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/05/16 Thu 10:41:25.743161 [4663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/05/16 Thu 10:41:25.743479 [4663 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/05/16 Thu 10:41:25.743894 [4663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/05/16 Thu 10:41:25.744067 [4663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/05/16 Thu 10:41:25.744316 [4663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/05/16 Thu 10:41:25.744432 [4663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/05/16 Thu 10:41:25.744874 [4663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/05/16 Thu 10:41:25.744967 [4663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/05/16 Thu 10:41:25.745058 [4663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/05/16 Thu 10:41:25.745149 [4663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/05/16 Thu 10:41:25.745243 [4663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/05/16 Thu 10:41:25.745332 [4663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/05/16 Thu 10:41:25.745567 [4663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/05/16 Thu 10:41:25.745680 [4663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/05/16 Thu 10:41:25.745845 [4663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/05/16 Thu 10:41:25.745952 [4663 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/05/16 Thu 10:41:25.746054 [4663 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/05/16 Thu 10:41:25.746068 [4663 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/05/16 Thu 10:41:25.746091 [4663 10739128][INFO] Reading generator configuration...
+2024/05/16 Thu 10:41:25.746204 [4663 10739128][INFO] Read generator configuration completed.
+
+2024/05/16 Thu 10:41:25.746212 [4663 10739128][INFO] Generating all artifacts...
+2024/05/16 Thu 10:41:25.746219 [4663 10739128][INFO] Generating artifact 'test'...
+2024/05/16 Thu 10:41:25.746280 [4663 10739128][VERB] Imported 0 item(s).
+2024/05/16 Thu 10:41:25.746708 [4663 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/05/16 Thu 10:41:25.748161 [4663 10739128][VERB] Received Link.
+2024/05/16 Thu 10:41:25.748177 [4663 10739128][VERB] Parsing configuration file data...
+2024/05/16 Thu 10:41:25.749494 [4663 10739128][VERB] Node  TrojanProvider - 剩余流量：199.76 GB  has been ignored and will not be added.
+2024/05/16 Thu 10:41:25.749511 [4663 10739128][VERB] Node  TrojanProvider - 距离下次重置剩余：27 天  has been added.
+2024/05/16 Thu 10:41:25.749521 [4663 10739128][VERB] Node  TrojanProvider - 套餐到期：2024-06-12  has been ignored and will not be added.
+2024/05/16 Thu 10:41:25.749536 [4663 10739128][VERB] Node  TrojanProvider - 香港 1  has been added.
+2024/05/16 Thu 10:41:25.749545 [4663 10739128][VERB] Node  TrojanProvider - 香港 2  has been added.
+2024/05/16 Thu 10:41:25.749554 [4663 10739128][VERB] Node  TrojanProvider - 香港 3  has been added.
+2024/05/16 Thu 10:41:25.749563 [4663 10739128][VERB] Node  TrojanProvider - 香港 4  has been added.
+2024/05/16 Thu 10:41:25.749572 [4663 10739128][VERB] Node  TrojanProvider - 香港 5  has been added.
+2024/05/16 Thu 10:41:25.749581 [4663 10739128][VERB] Node  TrojanProvider - 香港 6  has been added.
+2024/05/16 Thu 10:41:25.749590 [4663 10739128][VERB] Node  TrojanProvider - 台湾 1  has been added.
+2024/05/16 Thu 10:41:25.749599 [4663 10739128][VERB] Node  TrojanProvider - 台湾 2  has been added.
+2024/05/16 Thu 10:41:25.749608 [4663 10739128][VERB] Node  TrojanProvider - 台湾 3  has been added.
+2024/05/16 Thu 10:41:25.749617 [4663 10739128][VERB] Node  TrojanProvider - 日本 1  has been added.
+2024/05/16 Thu 10:41:25.749626 [4663 10739128][VERB] Node  TrojanProvider - 日本 2  has been added.
+2024/05/16 Thu 10:41:25.749635 [4663 10739128][VERB] Node  TrojanProvider - 日本 3  has been added.
+2024/05/16 Thu 10:41:25.749644 [4663 10739128][VERB] Node  TrojanProvider - 日本 4  has been added.
+2024/05/16 Thu 10:41:25.749653 [4663 10739128][VERB] Node  TrojanProvider - 日本 5  has been added.
+2024/05/16 Thu 10:41:25.749662 [4663 10739128][VERB] Node  TrojanProvider - 日本 6  has been added.
+2024/05/16 Thu 10:41:25.749672 [4663 10739128][VERB] Node  TrojanProvider - 新加坡 1  has been added.
+2024/05/16 Thu 10:41:25.749681 [4663 10739128][VERB] Node  TrojanProvider - 新加坡 2  has been added.
+2024/05/16 Thu 10:41:25.749690 [4663 10739128][VERB] Node  TrojanProvider - 新加坡 3  has been added.
+2024/05/16 Thu 10:41:25.749699 [4663 10739128][VERB] Node  TrojanProvider - 新加坡 4  has been added.
+2024/05/16 Thu 10:41:25.749708 [4663 10739128][VERB] Node  TrojanProvider - 新加坡 5  has been added.
+2024/05/16 Thu 10:41:25.749717 [4663 10739128][VERB] Node  TrojanProvider - 新加坡 6  has been added.
+2024/05/16 Thu 10:41:25.749726 [4663 10739128][VERB] Node  TrojanProvider - 美国 1  has been added.
+2024/05/16 Thu 10:41:25.749735 [4663 10739128][VERB] Node  TrojanProvider - 美国 2  has been added.
+2024/05/16 Thu 10:41:25.749744 [4663 10739128][VERB] Node  TrojanProvider - 美国 3  has been added.
+2024/05/16 Thu 10:41:25.749753 [4663 10739128][VERB] Node  TrojanProvider - 美国 4  has been added.
+2024/05/16 Thu 10:41:25.749762 [4663 10739128][VERB] Node  TrojanProvider - 美国 5  has been added.
+2024/05/16 Thu 10:41:25.749770 [4663 10739128][VERB] Node  TrojanProvider - 美国 6  has been added.
+2024/05/16 Thu 10:41:25.749779 [4663 10739128][VERB] Node  TrojanProvider - 韩国  has been added.
+2024/05/16 Thu 10:41:25.749788 [4663 10739128][VERB] Node  TrojanProvider - 印度  has been added.
+2024/05/16 Thu 10:41:25.749798 [4663 10739128][VERB] Node  TrojanProvider - 澳大利亚  has been added.
+2024/05/16 Thu 10:41:25.749807 [4663 10739128][VERB] Node  TrojanProvider - 土耳其  has been added.
+2024/05/16 Thu 10:41:25.749816 [4663 10739128][VERB] Node  TrojanProvider - 以色列  has been added.
+2024/05/16 Thu 10:41:25.749825 [4663 10739128][VERB] Node  TrojanProvider - 阿联酋  has been added.
+2024/05/16 Thu 10:41:25.749834 [4663 10739128][VERB] Node  TrojanProvider - 沙特阿拉伯  has been added.
+2024/05/16 Thu 10:41:25.749843 [4663 10739128][VERB] Node  TrojanProvider - 马来西亚  has been added.
+2024/05/16 Thu 10:41:25.749852 [4663 10739128][VERB] Node  TrojanProvider - 英国  has been added.
+2024/05/16 Thu 10:41:25.749861 [4663 10739128][VERB] Node  TrojanProvider - 法国  has been added.
+2024/05/16 Thu 10:41:25.749870 [4663 10739128][VERB] Node  TrojanProvider - 德国  has been added.
+2024/05/16 Thu 10:41:25.749879 [4663 10739128][VERB] Node  TrojanProvider - 俄罗斯  has been added.
+2024/05/16 Thu 10:41:25.749887 [4663 10739128][VERB] Node  TrojanProvider - 荷兰  has been added.
+2024/05/16 Thu 10:41:25.749898 [4663 10739128][VERB] Node  TrojanProvider - 意大利  has been added.
+2024/05/16 Thu 10:41:25.749907 [4663 10739128][VERB] Node  TrojanProvider - 瑞典  has been added.
+2024/05/16 Thu 10:41:25.749916 [4663 10739128][VERB] Node  TrojanProvider - 瑞士  has been added.
+2024/05/16 Thu 10:41:25.749925 [4663 10739128][VERB] Node  TrojanProvider - 西班牙  has been added.
+2024/05/16 Thu 10:41:25.749934 [4663 10739128][VERB] Node  TrojanProvider - 加拿大  has been added.
+2024/05/16 Thu 10:41:25.749943 [4663 10739128][VERB] Node  TrojanProvider - 墨西哥  has been added.
+2024/05/16 Thu 10:41:25.749952 [4663 10739128][VERB] Node  TrojanProvider - 巴西  has been added.
+2024/05/16 Thu 10:41:25.749961 [4663 10739128][VERB] Node  TrojanProvider - 智利  has been added.
+2024/05/16 Thu 10:41:25.749970 [4663 10739128][VERB] Node  TrojanProvider - 阿根廷  has been added.
+2024/05/16 Thu 10:41:25.749979 [4663 10739128][VERB] Node  TrojanProvider - 南非  has been added.
+2024/05/16 Thu 10:41:25.749988 [4663 10739128][VERB] Node  TrojanProvider - 尼日利亚  has been added.
+2024/05/16 Thu 10:41:25.749995 [4663 10739128][VERB] Filter done.
+2024/05/16 Thu 10:41:25.750267 [4663 10739128][INFO] Generate target: Clash
+2024/05/16 Thu 10:41:25.763039 [4663 10739128][INFO] Generate completed.
+2024/05/16 Thu 10:41:25.763286 [4663 10739128][INFO] User Info for artifact 'test': Stream Used: 1.00  B Stream Total: N/A Expiry Time: N/A
+2024/05/16 Thu 10:41:25.763297 [4663 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/05/16 Thu 10:41:25.763306 [4663 10739128][INFO] Generating artifact 'test_profile'...
+2024/05/16 Thu 10:41:25.763510 [4663 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/05/16 Thu 10:41:25.763526 [4663 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/05/16 Thu 10:41:25.763584 [4663 10739128][VERB] Imported 0 item(s).
+2024/05/16 Thu 10:41:25.763603 [4663 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/05/16 Thu 10:41:25.764316 [4663 10739128][VERB] Received Link.
+2024/05/16 Thu 10:41:25.764369 [4663 10739128][INFO] Generate target: Clash
+2024/05/16 Thu 10:41:25.773545 [4663 10739128][INFO] Generate completed.
+2024/05/16 Thu 10:41:25.773731 [4663 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/05/16 Thu 10:41:25.773740 [4663 10739128][INFO] All artifact generated. Exiting...
+2024/05/27 Mon 11:00:05.188447 [10145 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/05/27 Mon 11:00:05.190456 [10145 10739128][INFO] Reading preference settings...
+2024/05/27 Mon 11:00:05.216438 [10145 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/05/27 Mon 11:00:05.216636 [10145 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/05/27 Mon 11:00:05.216751 [10145 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/05/27 Mon 11:00:05.216924 [10145 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/05/27 Mon 11:00:05.217342 [10145 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/05/27 Mon 11:00:05.217644 [10145 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/05/27 Mon 11:00:05.217852 [10145 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/05/27 Mon 11:00:05.217979 [10145 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/05/27 Mon 11:00:05.218144 [10145 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/05/27 Mon 11:00:05.218240 [10145 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/05/27 Mon 11:00:05.218332 [10145 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/05/27 Mon 11:00:05.218422 [10145 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/05/27 Mon 11:00:05.218513 [10145 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/05/27 Mon 11:00:05.218604 [10145 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/05/27 Mon 11:00:05.218765 [10145 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/05/27 Mon 11:00:05.218879 [10145 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/05/27 Mon 11:00:05.219044 [10145 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/05/27 Mon 11:00:05.219154 [10145 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/05/27 Mon 11:00:05.219258 [10145 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/05/27 Mon 11:00:05.219271 [10145 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/05/27 Mon 11:00:05.219294 [10145 10739128][INFO] Reading generator configuration...
+2024/05/27 Mon 11:00:05.219413 [10145 10739128][INFO] Read generator configuration completed.
+
+2024/05/27 Mon 11:00:05.219421 [10145 10739128][INFO] Generating all artifacts...
+2024/05/27 Mon 11:00:05.219429 [10145 10739128][INFO] Generating artifact 'test'...
+2024/05/27 Mon 11:00:05.219464 [10145 10739128][VERB] Imported 0 item(s).
+2024/05/27 Mon 11:00:05.219884 [10145 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/05/27 Mon 11:00:05.221367 [10145 10739128][VERB] Received Link.
+2024/05/27 Mon 11:00:05.221383 [10145 10739128][VERB] Parsing configuration file data...
+2024/05/27 Mon 11:00:05.222715 [10145 10739128][VERB] Node  TrojanProvider - 剩余流量：199.76 GB  has been ignored and will not be added.
+2024/05/27 Mon 11:00:05.222732 [10145 10739128][VERB] Node  TrojanProvider - 距离下次重置剩余：16 天  has been added.
+2024/05/27 Mon 11:00:05.222741 [10145 10739128][VERB] Node  TrojanProvider - 套餐到期：2024-06-12  has been ignored and will not be added.
+2024/05/27 Mon 11:00:05.222754 [10145 10739128][VERB] Node  TrojanProvider - 香港 1  has been added.
+2024/05/27 Mon 11:00:05.222763 [10145 10739128][VERB] Node  TrojanProvider - 香港 2  has been added.
+2024/05/27 Mon 11:00:05.222772 [10145 10739128][VERB] Node  TrojanProvider - 香港 3  has been added.
+2024/05/27 Mon 11:00:05.222781 [10145 10739128][VERB] Node  TrojanProvider - 香港 4  has been added.
+2024/05/27 Mon 11:00:05.222790 [10145 10739128][VERB] Node  TrojanProvider - 香港 5  has been added.
+2024/05/27 Mon 11:00:05.222800 [10145 10739128][VERB] Node  TrojanProvider - 香港 6  has been added.
+2024/05/27 Mon 11:00:05.222809 [10145 10739128][VERB] Node  TrojanProvider - 台湾 1  has been added.
+2024/05/27 Mon 11:00:05.222817 [10145 10739128][VERB] Node  TrojanProvider - 台湾 2  has been added.
+2024/05/27 Mon 11:00:05.222826 [10145 10739128][VERB] Node  TrojanProvider - 台湾 3  has been added.
+2024/05/27 Mon 11:00:05.222835 [10145 10739128][VERB] Node  TrojanProvider - 日本 1  has been added.
+2024/05/27 Mon 11:00:05.222844 [10145 10739128][VERB] Node  TrojanProvider - 日本 2  has been added.
+2024/05/27 Mon 11:00:05.222853 [10145 10739128][VERB] Node  TrojanProvider - 日本 3  has been added.
+2024/05/27 Mon 11:00:05.222862 [10145 10739128][VERB] Node  TrojanProvider - 日本 4  has been added.
+2024/05/27 Mon 11:00:05.222873 [10145 10739128][VERB] Node  TrojanProvider - 日本 5  has been added.
+2024/05/27 Mon 11:00:05.222882 [10145 10739128][VERB] Node  TrojanProvider - 日本 6  has been added.
+2024/05/27 Mon 11:00:05.222891 [10145 10739128][VERB] Node  TrojanProvider - 新加坡 1  has been added.
+2024/05/27 Mon 11:00:05.222899 [10145 10739128][VERB] Node  TrojanProvider - 新加坡 2  has been added.
+2024/05/27 Mon 11:00:05.222908 [10145 10739128][VERB] Node  TrojanProvider - 新加坡 3  has been added.
+2024/05/27 Mon 11:00:05.222917 [10145 10739128][VERB] Node  TrojanProvider - 新加坡 4  has been added.
+2024/05/27 Mon 11:00:05.222926 [10145 10739128][VERB] Node  TrojanProvider - 新加坡 5  has been added.
+2024/05/27 Mon 11:00:05.222935 [10145 10739128][VERB] Node  TrojanProvider - 新加坡 6  has been added.
+2024/05/27 Mon 11:00:05.222944 [10145 10739128][VERB] Node  TrojanProvider - 美国 1  has been added.
+2024/05/27 Mon 11:00:05.222953 [10145 10739128][VERB] Node  TrojanProvider - 美国 2  has been added.
+2024/05/27 Mon 11:00:05.222961 [10145 10739128][VERB] Node  TrojanProvider - 美国 3  has been added.
+2024/05/27 Mon 11:00:05.222970 [10145 10739128][VERB] Node  TrojanProvider - 美国 4  has been added.
+2024/05/27 Mon 11:00:05.222979 [10145 10739128][VERB] Node  TrojanProvider - 美国 5  has been added.
+2024/05/27 Mon 11:00:05.222988 [10145 10739128][VERB] Node  TrojanProvider - 美国 6  has been added.
+2024/05/27 Mon 11:00:05.222997 [10145 10739128][VERB] Node  TrojanProvider - 韩国  has been added.
+2024/05/27 Mon 11:00:05.223006 [10145 10739128][VERB] Node  TrojanProvider - 印度  has been added.
+2024/05/27 Mon 11:00:05.223015 [10145 10739128][VERB] Node  TrojanProvider - 澳大利亚  has been added.
+2024/05/27 Mon 11:00:05.223024 [10145 10739128][VERB] Node  TrojanProvider - 土耳其  has been added.
+2024/05/27 Mon 11:00:05.223033 [10145 10739128][VERB] Node  TrojanProvider - 以色列  has been added.
+2024/05/27 Mon 11:00:05.223043 [10145 10739128][VERB] Node  TrojanProvider - 阿联酋  has been added.
+2024/05/27 Mon 11:00:05.223052 [10145 10739128][VERB] Node  TrojanProvider - 沙特阿拉伯  has been added.
+2024/05/27 Mon 11:00:05.223061 [10145 10739128][VERB] Node  TrojanProvider - 马来西亚  has been added.
+2024/05/27 Mon 11:00:05.223070 [10145 10739128][VERB] Node  TrojanProvider - 英国  has been added.
+2024/05/27 Mon 11:00:05.223078 [10145 10739128][VERB] Node  TrojanProvider - 法国  has been added.
+2024/05/27 Mon 11:00:05.223087 [10145 10739128][VERB] Node  TrojanProvider - 德国  has been added.
+2024/05/27 Mon 11:00:05.223096 [10145 10739128][VERB] Node  TrojanProvider - 俄罗斯  has been added.
+2024/05/27 Mon 11:00:05.223105 [10145 10739128][VERB] Node  TrojanProvider - 荷兰  has been added.
+2024/05/27 Mon 11:00:05.223114 [10145 10739128][VERB] Node  TrojanProvider - 意大利  has been added.
+2024/05/27 Mon 11:00:05.223122 [10145 10739128][VERB] Node  TrojanProvider - 瑞典  has been added.
+2024/05/27 Mon 11:00:05.223131 [10145 10739128][VERB] Node  TrojanProvider - 瑞士  has been added.
+2024/05/27 Mon 11:00:05.223140 [10145 10739128][VERB] Node  TrojanProvider - 西班牙  has been added.
+2024/05/27 Mon 11:00:05.223149 [10145 10739128][VERB] Node  TrojanProvider - 加拿大  has been added.
+2024/05/27 Mon 11:00:05.223157 [10145 10739128][VERB] Node  TrojanProvider - 墨西哥  has been added.
+2024/05/27 Mon 11:00:05.223166 [10145 10739128][VERB] Node  TrojanProvider - 巴西  has been added.
+2024/05/27 Mon 11:00:05.223175 [10145 10739128][VERB] Node  TrojanProvider - 智利  has been added.
+2024/05/27 Mon 11:00:05.223184 [10145 10739128][VERB] Node  TrojanProvider - 阿根廷  has been added.
+2024/05/27 Mon 11:00:05.223193 [10145 10739128][VERB] Node  TrojanProvider - 南非  has been added.
+2024/05/27 Mon 11:00:05.223202 [10145 10739128][VERB] Node  TrojanProvider - 尼日利亚  has been added.
+2024/05/27 Mon 11:00:05.223208 [10145 10739128][VERB] Filter done.
+2024/05/27 Mon 11:00:05.223471 [10145 10739128][INFO] Generate target: Clash
+2024/05/27 Mon 11:00:05.235933 [10145 10739128][INFO] Generate completed.
+2024/05/27 Mon 11:00:05.236174 [10145 10739128][INFO] User Info for artifact 'test': Stream Used: 1.00  B Stream Total: N/A Expiry Time: N/A
+2024/05/27 Mon 11:00:05.236184 [10145 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/05/27 Mon 11:00:05.236192 [10145 10739128][INFO] Generating artifact 'test_profile'...
+2024/05/27 Mon 11:00:05.236383 [10145 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/05/27 Mon 11:00:05.236397 [10145 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/05/27 Mon 11:00:05.236448 [10145 10739128][VERB] Imported 0 item(s).
+2024/05/27 Mon 11:00:05.236466 [10145 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/05/27 Mon 11:00:05.237145 [10145 10739128][VERB] Received Link.
+2024/05/27 Mon 11:00:05.237194 [10145 10739128][INFO] Generate target: Clash
+2024/05/27 Mon 11:00:05.246097 [10145 10739128][INFO] Generate completed.
+2024/05/27 Mon 11:00:05.246281 [10145 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/05/27 Mon 11:00:05.246290 [10145 10739128][INFO] All artifact generated. Exiting...
+2024/05/28 Tue 15:58:23.525134 [5315 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/05/28 Tue 15:58:23.526429 [5315 10739128][INFO] Reading preference settings...
+2024/05/28 Tue 15:58:23.549406 [5315 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/05/28 Tue 15:58:23.549728 [5315 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/05/28 Tue 15:58:23.549917 [5315 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/05/28 Tue 15:58:23.550268 [5315 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/05/28 Tue 15:58:23.550700 [5315 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/05/28 Tue 15:58:23.550881 [5315 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/05/28 Tue 15:58:23.551139 [5315 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/05/28 Tue 15:58:23.551264 [5315 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/05/28 Tue 15:58:23.551716 [5315 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/05/28 Tue 15:58:23.551809 [5315 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/05/28 Tue 15:58:23.551901 [5315 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/05/28 Tue 15:58:23.551994 [5315 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/05/28 Tue 15:58:23.552089 [5315 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/05/28 Tue 15:58:23.552199 [5315 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/05/28 Tue 15:58:23.552610 [5315 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/05/28 Tue 15:58:23.553148 [5315 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/05/28 Tue 15:58:23.553598 [5315 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/05/28 Tue 15:58:23.553881 [5315 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/05/28 Tue 15:58:23.554081 [5315 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/05/28 Tue 15:58:23.554149 [5315 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/05/28 Tue 15:58:23.554239 [5315 10739128][INFO] Reading generator configuration...
+2024/05/28 Tue 15:58:23.554483 [5315 10739128][INFO] Read generator configuration completed.
+
+2024/05/28 Tue 15:58:23.554520 [5315 10739128][INFO] Generating all artifacts...
+2024/05/28 Tue 15:58:23.554556 [5315 10739128][INFO] Generating artifact 'test'...
+2024/05/28 Tue 15:58:23.554702 [5315 10739128][VERB] Imported 0 item(s).
+2024/05/28 Tue 15:58:23.555334 [5315 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/05/28 Tue 15:58:23.557260 [5315 10739128][VERB] Received Link.
+2024/05/28 Tue 15:58:23.557290 [5315 10739128][VERB] Parsing configuration file data...
+2024/05/28 Tue 15:58:23.558902 [5315 10739128][VERB] Node  TrojanProvider - 剩余流量：199.76 GB  has been ignored and will not be added.
+2024/05/28 Tue 15:58:23.558926 [5315 10739128][VERB] Node  TrojanProvider - 距离下次重置剩余：15 天  has been added.
+2024/05/28 Tue 15:58:23.558939 [5315 10739128][VERB] Node  TrojanProvider - 套餐到期：2024-06-12  has been ignored and will not be added.
+2024/05/28 Tue 15:58:23.558956 [5315 10739128][VERB] Node  TrojanProvider - 香港 1  has been added.
+2024/05/28 Tue 15:58:23.558968 [5315 10739128][VERB] Node  TrojanProvider - 香港 2  has been added.
+2024/05/28 Tue 15:58:23.558981 [5315 10739128][VERB] Node  TrojanProvider - 香港 3  has been added.
+2024/05/28 Tue 15:58:23.558993 [5315 10739128][VERB] Node  TrojanProvider - 香港 4  has been added.
+2024/05/28 Tue 15:58:23.559005 [5315 10739128][VERB] Node  TrojanProvider - 香港 5  has been added.
+2024/05/28 Tue 15:58:23.559017 [5315 10739128][VERB] Node  TrojanProvider - 香港 6  has been added.
+2024/05/28 Tue 15:58:23.559030 [5315 10739128][VERB] Node  TrojanProvider - 台湾 1  has been added.
+2024/05/28 Tue 15:58:23.559042 [5315 10739128][VERB] Node  TrojanProvider - 台湾 2  has been added.
+2024/05/28 Tue 15:58:23.559054 [5315 10739128][VERB] Node  TrojanProvider - 台湾 3  has been added.
+2024/05/28 Tue 15:58:23.559067 [5315 10739128][VERB] Node  TrojanProvider - 日本 1  has been added.
+2024/05/28 Tue 15:58:23.559079 [5315 10739128][VERB] Node  TrojanProvider - 日本 2  has been added.
+2024/05/28 Tue 15:58:23.559091 [5315 10739128][VERB] Node  TrojanProvider - 日本 3  has been added.
+2024/05/28 Tue 15:58:23.559103 [5315 10739128][VERB] Node  TrojanProvider - 日本 4  has been added.
+2024/05/28 Tue 15:58:23.559116 [5315 10739128][VERB] Node  TrojanProvider - 日本 5  has been added.
+2024/05/28 Tue 15:58:23.559129 [5315 10739128][VERB] Node  TrojanProvider - 日本 6  has been added.
+2024/05/28 Tue 15:58:23.559142 [5315 10739128][VERB] Node  TrojanProvider - 新加坡 1  has been added.
+2024/05/28 Tue 15:58:23.559156 [5315 10739128][VERB] Node  TrojanProvider - 新加坡 2  has been added.
+2024/05/28 Tue 15:58:23.559169 [5315 10739128][VERB] Node  TrojanProvider - 新加坡 3  has been added.
+2024/05/28 Tue 15:58:23.559182 [5315 10739128][VERB] Node  TrojanProvider - 新加坡 4  has been added.
+2024/05/28 Tue 15:58:23.559195 [5315 10739128][VERB] Node  TrojanProvider - 新加坡 5  has been added.
+2024/05/28 Tue 15:58:23.559208 [5315 10739128][VERB] Node  TrojanProvider - 新加坡 6  has been added.
+2024/05/28 Tue 15:58:23.559221 [5315 10739128][VERB] Node  TrojanProvider - 美国 1  has been added.
+2024/05/28 Tue 15:58:23.559234 [5315 10739128][VERB] Node  TrojanProvider - 美国 2  has been added.
+2024/05/28 Tue 15:58:23.559247 [5315 10739128][VERB] Node  TrojanProvider - 美国 3  has been added.
+2024/05/28 Tue 15:58:23.559260 [5315 10739128][VERB] Node  TrojanProvider - 美国 4  has been added.
+2024/05/28 Tue 15:58:23.559272 [5315 10739128][VERB] Node  TrojanProvider - 美国 5  has been added.
+2024/05/28 Tue 15:58:23.559289 [5315 10739128][VERB] Node  TrojanProvider - 美国 6  has been added.
+2024/05/28 Tue 15:58:23.559302 [5315 10739128][VERB] Node  TrojanProvider - 韩国  has been added.
+2024/05/28 Tue 15:58:23.559316 [5315 10739128][VERB] Node  TrojanProvider - 印度  has been added.
+2024/05/28 Tue 15:58:23.559329 [5315 10739128][VERB] Node  TrojanProvider - 澳大利亚  has been added.
+2024/05/28 Tue 15:58:23.559342 [5315 10739128][VERB] Node  TrojanProvider - 土耳其  has been added.
+2024/05/28 Tue 15:58:23.559355 [5315 10739128][VERB] Node  TrojanProvider - 以色列  has been added.
+2024/05/28 Tue 15:58:23.559368 [5315 10739128][VERB] Node  TrojanProvider - 阿联酋  has been added.
+2024/05/28 Tue 15:58:23.559381 [5315 10739128][VERB] Node  TrojanProvider - 沙特阿拉伯  has been added.
+2024/05/28 Tue 15:58:23.559394 [5315 10739128][VERB] Node  TrojanProvider - 马来西亚  has been added.
+2024/05/28 Tue 15:58:23.559407 [5315 10739128][VERB] Node  TrojanProvider - 英国  has been added.
+2024/05/28 Tue 15:58:23.559420 [5315 10739128][VERB] Node  TrojanProvider - 法国  has been added.
+2024/05/28 Tue 15:58:23.559434 [5315 10739128][VERB] Node  TrojanProvider - 德国  has been added.
+2024/05/28 Tue 15:58:23.559448 [5315 10739128][VERB] Node  TrojanProvider - 俄罗斯  has been added.
+2024/05/28 Tue 15:58:23.559461 [5315 10739128][VERB] Node  TrojanProvider - 荷兰  has been added.
+2024/05/28 Tue 15:58:23.559475 [5315 10739128][VERB] Node  TrojanProvider - 意大利  has been added.
+2024/05/28 Tue 15:58:23.559489 [5315 10739128][VERB] Node  TrojanProvider - 瑞典  has been added.
+2024/05/28 Tue 15:58:23.559502 [5315 10739128][VERB] Node  TrojanProvider - 瑞士  has been added.
+2024/05/28 Tue 15:58:23.559516 [5315 10739128][VERB] Node  TrojanProvider - 西班牙  has been added.
+2024/05/28 Tue 15:58:23.559530 [5315 10739128][VERB] Node  TrojanProvider - 加拿大  has been added.
+2024/05/28 Tue 15:58:23.559543 [5315 10739128][VERB] Node  TrojanProvider - 墨西哥  has been added.
+2024/05/28 Tue 15:58:23.559557 [5315 10739128][VERB] Node  TrojanProvider - 巴西  has been added.
+2024/05/28 Tue 15:58:23.559571 [5315 10739128][VERB] Node  TrojanProvider - 智利  has been added.
+2024/05/28 Tue 15:58:23.559585 [5315 10739128][VERB] Node  TrojanProvider - 阿根廷  has been added.
+2024/05/28 Tue 15:58:23.559598 [5315 10739128][VERB] Node  TrojanProvider - 南非  has been added.
+2024/05/28 Tue 15:58:23.559612 [5315 10739128][VERB] Node  TrojanProvider - 尼日利亚  has been added.
+2024/05/28 Tue 15:58:23.559623 [5315 10739128][VERB] Filter done.
+2024/05/28 Tue 15:58:23.560038 [5315 10739128][INFO] Generate target: Clash
+2024/05/28 Tue 15:58:23.575198 [5315 10739128][INFO] Generate completed.
+2024/05/28 Tue 15:58:23.575413 [5315 10739128][INFO] User Info for artifact 'test': Stream Used: 1.00  B Stream Total: N/A Expiry Time: N/A
+2024/05/28 Tue 15:58:23.575422 [5315 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/05/28 Tue 15:58:23.575430 [5315 10739128][INFO] Generating artifact 'test_profile'...
+2024/05/28 Tue 15:58:23.575643 [5315 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/05/28 Tue 15:58:23.575655 [5315 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/05/28 Tue 15:58:23.575699 [5315 10739128][VERB] Imported 0 item(s).
+2024/05/28 Tue 15:58:23.575715 [5315 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/05/28 Tue 15:58:23.576254 [5315 10739128][VERB] Received Link.
+2024/05/28 Tue 15:58:23.576292 [5315 10739128][INFO] Generate target: Clash
+2024/05/28 Tue 15:58:23.584512 [5315 10739128][INFO] Generate completed.
+2024/05/28 Tue 15:58:23.584935 [5315 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/05/28 Tue 15:58:23.584955 [5315 10739128][INFO] All artifact generated. Exiting...
+2024/05/29 Wed 10:14:18.350766 [5051 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/05/29 Wed 10:14:18.351659 [5051 10739128][INFO] Reading preference settings...
+2024/05/29 Wed 10:14:18.369038 [5051 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/05/29 Wed 10:14:18.369509 [5051 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/05/29 Wed 10:14:18.369752 [5051 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/05/29 Wed 10:14:18.370226 [5051 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/05/29 Wed 10:14:18.371035 [5051 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/05/29 Wed 10:14:18.371380 [5051 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/05/29 Wed 10:14:18.371750 [5051 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/05/29 Wed 10:14:18.371973 [5051 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/05/29 Wed 10:14:18.372559 [5051 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/05/29 Wed 10:14:18.372744 [5051 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/05/29 Wed 10:14:18.372919 [5051 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/05/29 Wed 10:14:18.373101 [5051 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/05/29 Wed 10:14:18.373436 [5051 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/05/29 Wed 10:14:18.373620 [5051 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/05/29 Wed 10:14:18.373965 [5051 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/05/29 Wed 10:14:18.374272 [5051 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/05/29 Wed 10:14:18.374679 [5051 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/05/29 Wed 10:14:18.374902 [5051 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/05/29 Wed 10:14:18.375060 [5051 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/05/29 Wed 10:14:18.375084 [5051 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/05/29 Wed 10:14:18.375118 [5051 10739128][INFO] Reading generator configuration...
+2024/05/29 Wed 10:14:18.375256 [5051 10739128][INFO] Read generator configuration completed.
+
+2024/05/29 Wed 10:14:18.375268 [5051 10739128][INFO] Generating all artifacts...
+2024/05/29 Wed 10:14:18.375279 [5051 10739128][INFO] Generating artifact 'test'...
+2024/05/29 Wed 10:14:18.375332 [5051 10739128][VERB] Imported 0 item(s).
+2024/05/29 Wed 10:14:18.375816 [5051 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/05/29 Wed 10:14:18.377398 [5051 10739128][VERB] Received Link.
+2024/05/29 Wed 10:14:18.377416 [5051 10739128][VERB] Parsing configuration file data...
+2024/05/29 Wed 10:14:18.378912 [5051 10739128][VERB] Node  TrojanProvider - 剩余流量：199.64 GB  has been ignored and will not be added.
+2024/05/29 Wed 10:14:18.378931 [5051 10739128][VERB] Node  TrojanProvider - 距离下次重置剩余：14 天  has been added.
+2024/05/29 Wed 10:14:18.378942 [5051 10739128][VERB] Node  TrojanProvider - 套餐到期：2024-06-12  has been ignored and will not be added.
+2024/05/29 Wed 10:14:18.378961 [5051 10739128][VERB] Node  TrojanProvider - 香港 1  has been added.
+2024/05/29 Wed 10:14:18.378972 [5051 10739128][VERB] Node  TrojanProvider - 香港 2  has been added.
+2024/05/29 Wed 10:14:18.378982 [5051 10739128][VERB] Node  TrojanProvider - 香港 3  has been added.
+2024/05/29 Wed 10:14:18.379014 [5051 10739128][VERB] Node  TrojanProvider - 香港 4  has been added.
+2024/05/29 Wed 10:14:18.379025 [5051 10739128][VERB] Node  TrojanProvider - 香港 5  has been added.
+2024/05/29 Wed 10:14:18.379035 [5051 10739128][VERB] Node  TrojanProvider - 香港 6  has been added.
+2024/05/29 Wed 10:14:18.379046 [5051 10739128][VERB] Node  TrojanProvider - 台湾 1  has been added.
+2024/05/29 Wed 10:14:18.379056 [5051 10739128][VERB] Node  TrojanProvider - 台湾 2  has been added.
+2024/05/29 Wed 10:14:18.379066 [5051 10739128][VERB] Node  TrojanProvider - 台湾 3  has been added.
+2024/05/29 Wed 10:14:18.379077 [5051 10739128][VERB] Node  TrojanProvider - 日本 1  has been added.
+2024/05/29 Wed 10:14:18.379087 [5051 10739128][VERB] Node  TrojanProvider - 日本 2  has been added.
+2024/05/29 Wed 10:14:18.379097 [5051 10739128][VERB] Node  TrojanProvider - 日本 3  has been added.
+2024/05/29 Wed 10:14:18.379107 [5051 10739128][VERB] Node  TrojanProvider - 日本 4  has been added.
+2024/05/29 Wed 10:14:18.379118 [5051 10739128][VERB] Node  TrojanProvider - 日本 5  has been added.
+2024/05/29 Wed 10:14:18.379128 [5051 10739128][VERB] Node  TrojanProvider - 日本 6  has been added.
+2024/05/29 Wed 10:14:18.379138 [5051 10739128][VERB] Node  TrojanProvider - 新加坡 1  has been added.
+2024/05/29 Wed 10:14:18.379149 [5051 10739128][VERB] Node  TrojanProvider - 新加坡 2  has been added.
+2024/05/29 Wed 10:14:18.379159 [5051 10739128][VERB] Node  TrojanProvider - 新加坡 3  has been added.
+2024/05/29 Wed 10:14:18.379169 [5051 10739128][VERB] Node  TrojanProvider - 新加坡 4  has been added.
+2024/05/29 Wed 10:14:18.379187 [5051 10739128][VERB] Node  TrojanProvider - 新加坡 5  has been added.
+2024/05/29 Wed 10:14:18.379198 [5051 10739128][VERB] Node  TrojanProvider - 新加坡 6  has been added.
+2024/05/29 Wed 10:14:18.379208 [5051 10739128][VERB] Node  TrojanProvider - 美国 1  has been added.
+2024/05/29 Wed 10:14:18.379218 [5051 10739128][VERB] Node  TrojanProvider - 美国 2  has been added.
+2024/05/29 Wed 10:14:18.379228 [5051 10739128][VERB] Node  TrojanProvider - 美国 3  has been added.
+2024/05/29 Wed 10:14:18.379238 [5051 10739128][VERB] Node  TrojanProvider - 美国 4  has been added.
+2024/05/29 Wed 10:14:18.379249 [5051 10739128][VERB] Node  TrojanProvider - 美国 5  has been added.
+2024/05/29 Wed 10:14:18.379259 [5051 10739128][VERB] Node  TrojanProvider - 美国 6  has been added.
+2024/05/29 Wed 10:14:18.379269 [5051 10739128][VERB] Node  TrojanProvider - 韩国  has been added.
+2024/05/29 Wed 10:14:18.379279 [5051 10739128][VERB] Node  TrojanProvider - 印度  has been added.
+2024/05/29 Wed 10:14:18.379290 [5051 10739128][VERB] Node  TrojanProvider - 澳大利亚  has been added.
+2024/05/29 Wed 10:14:18.379300 [5051 10739128][VERB] Node  TrojanProvider - 土耳其  has been added.
+2024/05/29 Wed 10:14:18.379310 [5051 10739128][VERB] Node  TrojanProvider - 以色列  has been added.
+2024/05/29 Wed 10:14:18.379320 [5051 10739128][VERB] Node  TrojanProvider - 阿联酋  has been added.
+2024/05/29 Wed 10:14:18.379331 [5051 10739128][VERB] Node  TrojanProvider - 沙特阿拉伯  has been added.
+2024/05/29 Wed 10:14:18.379341 [5051 10739128][VERB] Node  TrojanProvider - 马来西亚  has been added.
+2024/05/29 Wed 10:14:18.379352 [5051 10739128][VERB] Node  TrojanProvider - 英国  has been added.
+2024/05/29 Wed 10:14:18.379362 [5051 10739128][VERB] Node  TrojanProvider - 法国  has been added.
+2024/05/29 Wed 10:14:18.379372 [5051 10739128][VERB] Node  TrojanProvider - 德国  has been added.
+2024/05/29 Wed 10:14:18.379382 [5051 10739128][VERB] Node  TrojanProvider - 俄罗斯  has been added.
+2024/05/29 Wed 10:14:18.379393 [5051 10739128][VERB] Node  TrojanProvider - 荷兰  has been added.
+2024/05/29 Wed 10:14:18.379404 [5051 10739128][VERB] Node  TrojanProvider - 意大利  has been added.
+2024/05/29 Wed 10:14:18.379414 [5051 10739128][VERB] Node  TrojanProvider - 瑞典  has been added.
+2024/05/29 Wed 10:14:18.379425 [5051 10739128][VERB] Node  TrojanProvider - 瑞士  has been added.
+2024/05/29 Wed 10:14:18.379435 [5051 10739128][VERB] Node  TrojanProvider - 西班牙  has been added.
+2024/05/29 Wed 10:14:18.379445 [5051 10739128][VERB] Node  TrojanProvider - 加拿大  has been added.
+2024/05/29 Wed 10:14:18.379455 [5051 10739128][VERB] Node  TrojanProvider - 墨西哥  has been added.
+2024/05/29 Wed 10:14:18.379466 [5051 10739128][VERB] Node  TrojanProvider - 巴西  has been added.
+2024/05/29 Wed 10:14:18.379476 [5051 10739128][VERB] Node  TrojanProvider - 智利  has been added.
+2024/05/29 Wed 10:14:18.379486 [5051 10739128][VERB] Node  TrojanProvider - 阿根廷  has been added.
+2024/05/29 Wed 10:14:18.379496 [5051 10739128][VERB] Node  TrojanProvider - 南非  has been added.
+2024/05/29 Wed 10:14:18.379507 [5051 10739128][VERB] Node  TrojanProvider - 尼日利亚  has been added.
+2024/05/29 Wed 10:14:18.379515 [5051 10739128][VERB] Filter done.
+2024/05/29 Wed 10:14:18.379823 [5051 10739128][INFO] Generate target: Clash
+2024/05/29 Wed 10:14:18.393704 [5051 10739128][INFO] Generate completed.
+2024/05/29 Wed 10:14:18.394036 [5051 10739128][INFO] User Info for artifact 'test': Stream Used: 1.00  B Stream Total: N/A Expiry Time: N/A
+2024/05/29 Wed 10:14:18.394048 [5051 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/05/29 Wed 10:14:18.394056 [5051 10739128][INFO] Generating artifact 'test_profile'...
+2024/05/29 Wed 10:14:18.394367 [5051 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/05/29 Wed 10:14:18.394387 [5051 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/05/29 Wed 10:14:18.394442 [5051 10739128][VERB] Imported 0 item(s).
+2024/05/29 Wed 10:14:18.394468 [5051 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/05/29 Wed 10:14:18.395103 [5051 10739128][VERB] Received Link.
+2024/05/29 Wed 10:14:18.395162 [5051 10739128][INFO] Generate target: Clash
+2024/05/29 Wed 10:14:18.403601 [5051 10739128][INFO] Generate completed.
+2024/05/29 Wed 10:14:18.403867 [5051 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/05/29 Wed 10:14:18.403877 [5051 10739128][INFO] All artifact generated. Exiting...
+2024/05/30 Thu 10:01:17.910921 [9501 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22024/05/30 Thu 10:01:17.912966 [9501 10739128][INFO] Reading preference settings...
+2024/05/30 Thu 10:01:17.933201 [9501 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2024/05/30 Thu 10:01:17.933451 [9501 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2024/05/30 Thu 10:01:17.933609 [9501 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2024/05/30 Thu 10:01:17.933944 [9501 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2024/05/30 Thu 10:01:17.934378 [9501 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2024/05/30 Thu 10:01:17.934558 [9501 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2024/05/30 Thu 10:01:17.934804 [9501 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2024/05/30 Thu 10:01:17.934922 [9501 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2024/05/30 Thu 10:01:17.935360 [9501 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2024/05/30 Thu 10:01:17.935458 [9501 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2024/05/30 Thu 10:01:17.935550 [9501 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2024/05/30 Thu 10:01:17.935655 [9501 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2024/05/30 Thu 10:01:17.935747 [9501 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2024/05/30 Thu 10:01:17.935860 [9501 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2024/05/30 Thu 10:01:17.936098 [9501 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2024/05/30 Thu 10:01:17.936224 [9501 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2024/05/30 Thu 10:01:17.936428 [9501 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2024/05/30 Thu 10:01:17.936563 [9501 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2024/05/30 Thu 10:01:17.936692 [9501 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2024/05/30 Thu 10:01:17.936708 [9501 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2024/05/30 Thu 10:01:17.936729 [9501 10739128][INFO] Reading generator configuration...
+2024/05/30 Thu 10:01:17.936851 [9501 10739128][INFO] Read generator configuration completed.
+
+2024/05/30 Thu 10:01:17.936859 [9501 10739128][INFO] Generating all artifacts...
+2024/05/30 Thu 10:01:17.936866 [9501 10739128][INFO] Generating artifact 'test'...
+2024/05/30 Thu 10:01:17.936901 [9501 10739128][VERB] Imported 0 item(s).
+2024/05/30 Thu 10:01:17.937317 [9501 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2024/05/30 Thu 10:01:17.938916 [9501 10739128][VERB] Received Link.
+2024/05/30 Thu 10:01:17.938936 [9501 10739128][VERB] Parsing configuration file data...
+2024/05/30 Thu 10:01:17.940836 [9501 10739128][VERB] Node  TrojanProvider - 剩余流量：199.59 GB  has been ignored and will not be added.
+2024/05/30 Thu 10:01:17.940867 [9501 10739128][VERB] Node  TrojanProvider - 距离下次重置剩余：13 天  has been added.
+2024/05/30 Thu 10:01:17.940884 [9501 10739128][VERB] Node  TrojanProvider - 套餐到期：2024-06-12  has been ignored and will not be added.
+2024/05/30 Thu 10:01:17.940905 [9501 10739128][VERB] Node  TrojanProvider - 香港 1  has been added.
+2024/05/30 Thu 10:01:17.940921 [9501 10739128][VERB] Node  TrojanProvider - 香港 2  has been added.
+2024/05/30 Thu 10:01:17.940937 [9501 10739128][VERB] Node  TrojanProvider - 香港 3  has been added.
+2024/05/30 Thu 10:01:17.940953 [9501 10739128][VERB] Node  TrojanProvider - 香港 4  has been added.
+2024/05/30 Thu 10:01:17.940969 [9501 10739128][VERB] Node  TrojanProvider - 香港 5  has been added.
+2024/05/30 Thu 10:01:17.940984 [9501 10739128][VERB] Node  TrojanProvider - 香港 6  has been added.
+2024/05/30 Thu 10:01:17.941000 [9501 10739128][VERB] Node  TrojanProvider - 台湾 1  has been added.
+2024/05/30 Thu 10:01:17.941016 [9501 10739128][VERB] Node  TrojanProvider - 台湾 2  has been added.
+2024/05/30 Thu 10:01:17.941032 [9501 10739128][VERB] Node  TrojanProvider - 台湾 3  has been added.
+2024/05/30 Thu 10:01:17.941047 [9501 10739128][VERB] Node  TrojanProvider - 日本 1  has been added.
+2024/05/30 Thu 10:01:17.941063 [9501 10739128][VERB] Node  TrojanProvider - 日本 2  has been added.
+2024/05/30 Thu 10:01:17.941079 [9501 10739128][VERB] Node  TrojanProvider - 日本 3  has been added.
+2024/05/30 Thu 10:01:17.941095 [9501 10739128][VERB] Node  TrojanProvider - 日本 4  has been added.
+2024/05/30 Thu 10:01:17.941110 [9501 10739128][VERB] Node  TrojanProvider - 日本 5  has been added.
+2024/05/30 Thu 10:01:17.941130 [9501 10739128][VERB] Node  TrojanProvider - 日本 6  has been added.
+2024/05/30 Thu 10:01:17.941146 [9501 10739128][VERB] Node  TrojanProvider - 新加坡 1  has been added.
+2024/05/30 Thu 10:01:17.941162 [9501 10739128][VERB] Node  TrojanProvider - 新加坡 2  has been added.
+2024/05/30 Thu 10:01:17.941177 [9501 10739128][VERB] Node  TrojanProvider - 新加坡 3  has been added.
+2024/05/30 Thu 10:01:17.941193 [9501 10739128][VERB] Node  TrojanProvider - 新加坡 4  has been added.
+2024/05/30 Thu 10:01:17.941209 [9501 10739128][VERB] Node  TrojanProvider - 新加坡 5  has been added.
+2024/05/30 Thu 10:01:17.941225 [9501 10739128][VERB] Node  TrojanProvider - 新加坡 6  has been added.
+2024/05/30 Thu 10:01:17.941241 [9501 10739128][VERB] Node  TrojanProvider - 美国 1  has been added.
+2024/05/30 Thu 10:01:17.941256 [9501 10739128][VERB] Node  TrojanProvider - 美国 2  has been added.
+2024/05/30 Thu 10:01:17.941272 [9501 10739128][VERB] Node  TrojanProvider - 美国 3  has been added.
+2024/05/30 Thu 10:01:17.941287 [9501 10739128][VERB] Node  TrojanProvider - 美国 4  has been added.
+2024/05/30 Thu 10:01:17.941303 [9501 10739128][VERB] Node  TrojanProvider - 美国 5  has been added.
+2024/05/30 Thu 10:01:17.941318 [9501 10739128][VERB] Node  TrojanProvider - 美国 6  has been added.
+2024/05/30 Thu 10:01:17.941334 [9501 10739128][VERB] Node  TrojanProvider - 韩国  has been added.
+2024/05/30 Thu 10:01:17.941350 [9501 10739128][VERB] Node  TrojanProvider - 印度  has been added.
+2024/05/30 Thu 10:01:17.941368 [9501 10739128][VERB] Node  TrojanProvider - 澳大利亚  has been added.
+2024/05/30 Thu 10:01:17.941385 [9501 10739128][VERB] Node  TrojanProvider - 土耳其  has been added.
+2024/05/30 Thu 10:01:17.941402 [9501 10739128][VERB] Node  TrojanProvider - 以色列  has been added.
+2024/05/30 Thu 10:01:17.941418 [9501 10739128][VERB] Node  TrojanProvider - 阿联酋  has been added.
+2024/05/30 Thu 10:01:17.941435 [9501 10739128][VERB] Node  TrojanProvider - 沙特阿拉伯  has been added.
+2024/05/30 Thu 10:01:17.941453 [9501 10739128][VERB] Node  TrojanProvider - 马来西亚  has been added.
+2024/05/30 Thu 10:01:17.941469 [9501 10739128][VERB] Node  TrojanProvider - 英国  has been added.
+2024/05/30 Thu 10:01:17.941486 [9501 10739128][VERB] Node  TrojanProvider - 法国  has been added.
+2024/05/30 Thu 10:01:17.941503 [9501 10739128][VERB] Node  TrojanProvider - 德国  has been added.
+2024/05/30 Thu 10:01:17.941520 [9501 10739128][VERB] Node  TrojanProvider - 俄罗斯  has been added.
+2024/05/30 Thu 10:01:17.941537 [9501 10739128][VERB] Node  TrojanProvider - 荷兰  has been added.
+2024/05/30 Thu 10:01:17.941554 [9501 10739128][VERB] Node  TrojanProvider - 意大利  has been added.
+2024/05/30 Thu 10:01:17.941571 [9501 10739128][VERB] Node  TrojanProvider - 瑞典  has been added.
+2024/05/30 Thu 10:01:17.941588 [9501 10739128][VERB] Node  TrojanProvider - 瑞士  has been added.
+2024/05/30 Thu 10:01:17.941604 [9501 10739128][VERB] Node  TrojanProvider - 西班牙  has been added.
+2024/05/30 Thu 10:01:17.941621 [9501 10739128][VERB] Node  TrojanProvider - 加拿大  has been added.
+2024/05/30 Thu 10:01:17.941638 [9501 10739128][VERB] Node  TrojanProvider - 墨西哥  has been added.
+2024/05/30 Thu 10:01:17.941655 [9501 10739128][VERB] Node  TrojanProvider - 巴西  has been added.
+2024/05/30 Thu 10:01:17.941672 [9501 10739128][VERB] Node  TrojanProvider - 智利  has been added.
+2024/05/30 Thu 10:01:17.941689 [9501 10739128][VERB] Node  TrojanProvider - 阿根廷  has been added.
+2024/05/30 Thu 10:01:17.941706 [9501 10739128][VERB] Node  TrojanProvider - 南非  has been added.
+2024/05/30 Thu 10:01:17.941724 [9501 10739128][VERB] Node  TrojanProvider - 尼日利亚  has been added.
+2024/05/30 Thu 10:01:17.941738 [9501 10739128][VERB] Filter done.
+2024/05/30 Thu 10:01:17.942268 [9501 10739128][INFO] Generate target: Clash
+2024/05/30 Thu 10:01:17.961091 [9501 10739128][INFO] Generate completed.
+2024/05/30 Thu 10:01:17.961327 [9501 10739128][INFO] User Info for artifact 'test': Stream Used: 1.00  B Stream Total: N/A Expiry Time: N/A
+2024/05/30 Thu 10:01:17.961336 [9501 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2024/05/30 Thu 10:01:17.961344 [9501 10739128][INFO] Generating artifact 'test_profile'...
+2024/05/30 Thu 10:01:17.961539 [9501 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2024/05/30 Thu 10:01:17.961555 [9501 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2024/05/30 Thu 10:01:17.961603 [9501 10739128][VERB] Imported 0 item(s).
+2024/05/30 Thu 10:01:17.961620 [9501 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2024/05/30 Thu 10:01:17.962177 [9501 10739128][VERB] Received Link.
+2024/05/30 Thu 10:01:17.962217 [9501 10739128][INFO] Generate target: Clash
+2024/05/30 Thu 10:01:17.971109 [9501 10739128][INFO] Generate completed.
+2024/05/30 Thu 10:01:17.971348 [9501 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2024/05/30 Thu 10:01:17.971358 [9501 10739128][INFO] All artifact generated. Exiting...
